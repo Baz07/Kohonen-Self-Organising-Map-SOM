@@ -2,3 +2,5 @@
 
 ### Task: Design a Kohonen Self Organising Map (SOM) using Training Input of 24 colors (Shades of Red, Green, Blue, yellow, Teal, Pink)
 (Used https://www.rapidtables.com/web/color/RGB_Color.html to select the colors)
+
+### Maps obtained for different combinations has been explained briefly and provided under "Map_Analysis" directory.
